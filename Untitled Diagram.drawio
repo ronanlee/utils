@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-13T16:26:32.212Z" agent="5.0 (X11)" etag="EomP5byVlR94wxG5bFEI" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-13T16:28:12.380Z" agent="5.0 (X11)" etag="YfzYJMnhdreFkNxuyICz" version="14.0.1" type="github">
   <diagram id="pQNeEdPDle5iqBmCIra-" name="Page-1">
     <mxGraphModel dx="2854" dy="860" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="1" shadow="1">
       <root>
@@ -75,6 +75,14 @@
         </mxCell>
         <mxCell id="jnF6ADT0jNsZyx7ep2ay-16" value="192.168.2.0/24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-128" y="253" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jnF6ADT0jNsZyx7ep2ay-18" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="1">
+          <mxGeometry x="308" y="259" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="jnF6ADT0jNsZyx7ep2ay-19" value="Intune Proxy" style="dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.squid_proxy;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="jnF6ADT0jNsZyx7ep2ay-18">
+          <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
+            <mxPoint x="5" y="-16" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
